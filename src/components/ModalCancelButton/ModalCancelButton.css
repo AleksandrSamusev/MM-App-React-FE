@@ -1,0 +1,13 @@
+.cancel-button-style {
+    border: 1px solid #252525;
+    background-color: white;
+    height: 45px;
+    width: 100%;
+}
+
+.cancel-button-text-style {
+    font-family: "Lato", serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+

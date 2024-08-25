@@ -1,0 +1,12 @@
+.button-style {
+    height: 50px;
+    width: 100%;
+    background-color: #252525;
+}
+
+.button-text-style {
+    font-family: "Montserrat", serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+}

@@ -1,0 +1,44 @@
+.main-span-style {
+    color: white;
+    font-family: "Montserrat", serif;
+    font-size: 20px;
+}
+
+.hovered {
+    cursor: pointer;
+}
+
+.wrapper {
+    position: relative;
+}
+
+.invisible {
+    display: none;
+}
+
+.tooltip-box {
+    background-color: white;
+    position: absolute;
+    z-index: 2;
+    height: 120px;
+    width: 200px;
+    margin-top: 150px;
+}
+
+.tooltip-text {
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+    padding-left: 5px;
+}
+
+.tooltip-row {
+    background-color: white;
+    padding: 3px 0;
+}
+
+.tooltip-row:hover {
+    background-color: lightgrey;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.calendar-element {
+    width: 14.27%;
+}
+.calendar-element-disabled {
+    width: 14.27%;
+    color: lightgray;
+    pointer-events: none;
+}
+
+.calendar-element:hover {
+    background-color: #252525;
+    color: white;
+    cursor: pointer;
+}
+
+.calendar-month:hover {
+    background-color: #252525;
+    color: white;
+    cursor: pointer;
+}
+
+.invisible {
+    display: none;
+}
+
+.month:hover {
+    background-color: #252626;
+    color: white;
+    cursor: pointer;
+}
+
+.months {
+    font-family: Montserrat, serif;
+    font-size: 15px;
+}

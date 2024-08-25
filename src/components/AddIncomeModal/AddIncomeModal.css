@@ -1,0 +1,23 @@
+.main-modal-style {
+    background-color: white;
+    width: 450px;
+    height: 570px;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.main-modal-position {
+    position: fixed;
+    bottom: 20vh;
+    right: 40vw;
+}
+
+.modal-title-text-style {
+    font-size: 24px;
+    font-family: "Montserrat", serif;
+}
+
+.win-btn:hover {
+    cursor: pointer;
+}

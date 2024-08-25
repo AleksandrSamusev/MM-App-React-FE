@@ -1,0 +1,18 @@
+.scrollable-container {
+    height: 200px;
+    max-height: 300px;
+}
+
+.scrolling {
+    scrollbar-color: lightgrey grey;
+    scrollbar-width: thin;
+    overflow-y: scroll;
+}
+
+.empty-container-span {
+    color: white;
+    font-family: 'Montserrat', serif;
+    font-size: 28px;
+    padding: 15px 35px;
+    border: 1px solid white;
+}

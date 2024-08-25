@@ -1,0 +1,28 @@
+.row-title {
+    color: white;
+    font-family: "Montserrat", serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.row-sell {
+    color: white;
+    font-family: "Montserrat", serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.last-row-sell {
+    color: white;
+    font-family: "Montserrat", serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.red-background {
+    background-color: rgba(255,0,0,0.3);
+}
+
+.green-background {
+    background-color: rgba(110,255,60,0.3);
+}

@@ -1,0 +1,18 @@
+
+.manage-month {
+    color: white;
+    font-Family: Montserrat, serif;
+    font-Weight: 500;
+    font-Size: 18px;
+    background-color: #322424;
+}
+
+.manage-month:hover {
+    color: black;
+    background-color: #FFF171;
+    cursor: pointer;
+}
+
+.no-events {
+    pointer-events: none;
+}
